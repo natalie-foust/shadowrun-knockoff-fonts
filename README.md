@@ -12,7 +12,7 @@ Listen chummer, I was planning on making some cheatsheets for my Shadowrun 5e an
   * made by Nate Halley (Nate547)
   * released with [Creative Commons (by-sa) Attribution Share Alike](http://creativecommons.org/licenses/by-sa/3.0/) 
   * FInd the license at licenses/Grishenko.txt
-* Realpolitk: Obtained from [fontsgeek](http://fontsgeek.com/fonts/Realpolitik-Shadow-Shadow)
+* Realpolitk: Obtained from http://fontsgeek.com/fonts/Realpolitik-Shadow-Shadow
 * Rexlia:  Obtained from http://typodermicfonts.com/
   * License found in licenses/typodermic-eula-02-2014.pdf
 
