@@ -14,7 +14,7 @@ Listen chummer, I was planning on making some cheatsheets for my Shadowrun 5e an
   * FInd the license at licenses/Grishenko.txt
 * Realpolitk: Obtained from [fontsgeek](http://fontsgeek.com/fonts/Realpolitik-Shadow-Shadow)
 * Rexlia:  Obtained from http://typodermicfonts.com/
-  * License found in (licenses/typodermic-eula-02-2014.pdf)
+  * License found in licenses/typodermic-eula-02-2014.pdf
 
 * SL_Panzerkardinal
   * FInd the license at licenses/Panzerkardinal.txt
