@@ -6,15 +6,19 @@ Listen chummer, I was planning on making some cheatsheets for my Shadowrun 5e an
 
 ## The Fonts
 
-* Friz Quadrata: Obtained from http://fontsgeek.com/fonts/Friz-Quadrata-Std-Medium
-  * This actually is the official font they use for the main body text.  Unfortunately it seems only the std form is available, so I guess no bold or italics possible
-* Grishenko: Obtained from https://www.whatfontis.com/Grishenko-NBP-Regular.font?text=ABCDEFG
-  * made by Nate Halley (Nate547)
-  * released with [Creative Commons (by-sa) Attribution Share Alike](http://creativecommons.org/licenses/by-sa/3.0/) 
-  * FInd the license at licenses/Grishenko.txt
-* Realpolitk: Obtained from http://fontsgeek.com/fonts/Realpolitik-Shadow-Shadow
-* Rexlia:  Obtained from http://typodermicfonts.com/
-  * License found in licenses/typodermic-eula-02-2014.pdf
+You may find the licenses for the three following fonts in the licenses/ directory.
 
+* Grishenko
+* Rexlia
 * SL_Panzerkardinal
-  * FInd the license at licenses/Panzerkardinal.txt
+
+
+
+Unfortunately, the fonts below didn't seem to have licenses attached.
+
+- Friz Quadrata: Obtained from http://fontsgeek.com/fonts/Friz-Quadrata-Std-Medium
+- Realpolitk: Obtained from http://fontsgeek.com/fonts/Realpolitik-Shadow-Shadow
+
+
+
+I am only using these fonts for personal use, none of these fonts belong to me and I am not claiming that they do.
